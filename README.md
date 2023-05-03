@@ -8,7 +8,7 @@ Depeche_Mode_Sentiment_Analysis.docx: Written report for the original project.
 
 Depeche_Mode_Sentiment_Analysis_Presentation.pptx: PowerPoint presentation for the original project.
 
-Zachary_Chipman_Final_Project_Report.ipynb: The python code for the project. An python application such as Jupyter notebook will be required to view the code. 
+Depeche_Mode_Sentiment_Analysis.ipynb: The python code for the project. An python application such as Jupyter notebook will be required to view the code. 
 
 ## References:
 Sources are listed at the end of the written report.
