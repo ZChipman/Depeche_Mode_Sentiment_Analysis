@@ -1,7 +1,7 @@
 # Depeche_Mode_Sentiment_Analysis
-Final Project for IST652 - Scripting for Data Analysis
 
-Analyzed the discography of the band “Depeche Mode” using Python’s sentiment analysis tools. The lyrics of their 14 studio albums were scraped from the web using the BeautifulSoup module.
+## Background
+This started out as the final project for Scripting for Data Analysis course at Syracuse University. In the original project, I anlyzed the discography of the band “Depeche Mode” using Python’s sentiment analysis tools. The lyrics of their 14 studio albums were scraped from the web using the BeautifulSoup module.
 
 Zachary_Chipman_Final_Project_Report.docx: Written report for the IST652 final project.
 
