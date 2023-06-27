@@ -12,3 +12,7 @@ Depeche_Mode_Sentiment_Analysis.ipynb: The python code for the project. An pytho
 
 ## References:
 Sources are listed at the end of the written report.
+
+## Future Goals:
+
+In March of 2023, Depeche Mode released their 15th studio album, "Memento Mori." I plan on adding this album to the project once the lyrics are uploaded onto lyrics.com.
